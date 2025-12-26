@@ -1,3 +1,6 @@
-https://habr.com/ru/companies/yandex_praktikum/articles/700708/
-Google.com
-Yandex.ru
+# Git - это не так страшно, как кажется
+## Почитать про него можно [здесь](ttps://habr.com/ru/companies/yandex_praktikum/articles/700708/)
+### А еще можно поискать [здесь](google.com) 
+### Или вот [здесь](yandex.ru)
+
+###### Но вообще я просто балуюсь с реадми, что писать - не знаю, так что не обращай внимания ;)
